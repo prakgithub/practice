@@ -1,1 +1,1 @@
-My first Git file to operate.
+Just playing around with Git
